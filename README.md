@@ -1,4 +1,4 @@
-# TFM Herreros, Mario
+# TFM Mario Herreros
 ## Cargayprocesado.ipynb
 En este notebook se cargan y juntan los distintos datasets y se realiza todo el preprocesado.
 ## EDA.ipynb
